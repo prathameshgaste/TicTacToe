@@ -1,2 +1,2 @@
 # TicTacToe
-This is a basic TicTacToe Game in Android
+This is a Simple TicTacToe Game in Android
